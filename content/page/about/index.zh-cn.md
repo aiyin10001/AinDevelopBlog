@@ -1,5 +1,5 @@
 ---
-title: 关于我
+title: 关于
 description: Hugo, the world's fastest framework for building websites
 date: '2025-10-23'
 aliases:
@@ -10,7 +10,7 @@ license: CC BY-NC-ND
 lastmod: '2020-10-09'
 menu:
     main: 
-        weight: -90
+        weight: 40
         params:
             icon: user
 ---

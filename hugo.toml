@@ -9,11 +9,11 @@ hasCJKLanguage = true
 
 [languages.zh-cn]
 languageName = "中文"
-title = "演示站点"
+title = "艾因"
 weight = 1
 
 [languages.zh-cn.params.sidebar]
-subtitle = "演示说明"
+subtitle = "艾因的记录馆"
 
 [services.disqus]
 shortname = "hugo-theme-stack"
@@ -21,7 +21,7 @@ shortname = "hugo-theme-stack"
 [services.googleAnalytics]
 
 [pagination]
-pagerSize = 10
+pagerSize = 15
 
 [permalinks]
 post = "/p/:slug/"
@@ -138,23 +138,25 @@ enabled = true
 enabled = true
 
 [menu]
-main = [ ]
+  main = []
 
   [[menu.social]]
   identifier = "github"
   name = "GitHub"
-  url = "https://github.com/CaiJimmy/hugo-theme-stack"
+  url = "https://github.com/aiyin10001"
+  weight = 100
 
     [menu.social.params]
     icon = "brand-github"
 
   [[menu.social]]
-  identifier = "twitter"
-  name = "Twitter"
+  identifier = "bilibili"
+  name = "Bilibili"
   url = "https://twitter.com"
+  weight = 120
 
     [menu.social.params]
-    icon = "brand-twitter"
+    icon = "brand-bilibili"
 
 [related]
 includeNewer = true
