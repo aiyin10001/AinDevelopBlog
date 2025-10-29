@@ -2,14 +2,12 @@
 date: 2025-10-23T15:42:32+08:00
 title: Android App 启动流程
 description: 详细记录下Android App 启动流程
-readingTime: false
+readingTime: true
+image: 'the Android App startup process.png'
 categories:
     - Android
-    - 哈哈
-    - 诶嘿嘿
-keywords:
-    - Markdown
-    - 哈哈
+tags:
+    - Android
 toc: true
 ---
 

@@ -7,7 +7,70 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>艾因</copyright>
-        <lastBuildDate>Thu, 23 Oct 2025 15:42:32 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/android/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 29 Oct 2025 14:16:14 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/android/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>标签验证</title>
+        <link>http://localhost:1313/p/%E6%A0%87%E7%AD%BE%E9%AA%8C%E8%AF%81/</link>
+        <pubDate>Wed, 29 Oct 2025 14:16:14 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E6%A0%87%E7%AD%BE%E9%AA%8C%E8%AF%81/</guid>
+        <description>&lt;img src="http://localhost:1313/p/%E6%A0%87%E7%AD%BE%E9%AA%8C%E8%AF%81/e20ffcc2232b4471a8926035d6b0a10a.jpg" alt="Featured image of post 标签验证" /&gt;&lt;h1 id=&#34;验证所有分类和标签&#34;&gt;验证所有分类和标签
+&lt;/h1&gt;&lt;h2 id=&#34;分类如下&#34;&gt;分类如下：
+&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;标签&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;文案颜色&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;背景颜色&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Java&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Kotlin&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Android&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Android 音视频&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;跨端&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;标签如下&#34;&gt;标签如下：
+&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;标签&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;文案颜色&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;背景颜色&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Android&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        </item>
+        <item>
         <title>Android App 启动流程</title>
         <link>http://localhost:1313/p/android-app-%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B/</link>
         <pubDate>Thu, 23 Oct 2025 15:42:32 +0800</pubDate>
