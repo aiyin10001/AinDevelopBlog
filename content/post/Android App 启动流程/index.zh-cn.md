@@ -13,6 +13,7 @@ toc: true
 
 # Android App启动完整流程详解
 
+
 ## 1. 系统层启动流程
 
 ### Launcher点击应用图标
